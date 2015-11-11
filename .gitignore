@@ -1,0 +1,5 @@
+#Ignore files
+*.cod
+*.bin
+*.lst
+*.exe
